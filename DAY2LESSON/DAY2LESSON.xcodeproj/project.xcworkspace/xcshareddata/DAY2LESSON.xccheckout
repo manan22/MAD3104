@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EFC2D9B-8E29-4468-9D4D-315F05357112</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DAY2LESSON</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>405F067D-D005-47EF-BF84-D7807D250BAF</key>
+		<string>https://github.com/manan22/MAD3104.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DAY2LESSON/DAY2LESSON.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>405F067D-D005-47EF-BF84-D7807D250BAF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/manan22/MAD3104.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>405F067D-D005-47EF-BF84-D7807D250BAF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>405F067D-D005-47EF-BF84-D7807D250BAF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MAD3104</string>
+		</dict>
+	</array>
+</dict>
+</plist>
