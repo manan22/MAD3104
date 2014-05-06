@@ -14,7 +14,10 @@ int main(int argc, const char * argv[])
     @autoreleasepool {
         
         // insert code here...
-        NSLog(@"Hello, World!");
+        int numerator = 1;
+        int denominator = 3;
+        
+        NSLog(@ "The Fraction is %i/%i ", numerator , denominator );
         
     }
     return 0;
